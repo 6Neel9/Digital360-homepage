@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/homepage/static/css/main.08d217eb.css",
-    "main.js": "/homepage/static/js/main.61e62a83.js",
-    "static/js/787.513bc5a6.chunk.js": "/homepage/static/js/787.513bc5a6.chunk.js",
-    "index.html": "/homepage/index.html",
-    "main.08d217eb.css.map": "/homepage/static/css/main.08d217eb.css.map",
-    "main.61e62a83.js.map": "/homepage/static/js/main.61e62a83.js.map",
-    "787.513bc5a6.chunk.js.map": "/homepage/static/js/787.513bc5a6.chunk.js.map"
+    "main.css": "/Digital360-homepage/static/css/main.08d217eb.css",
+    "main.js": "/Digital360-homepage/static/js/main.6cd4751d.js",
+    "static/js/787.513bc5a6.chunk.js": "/Digital360-homepage/static/js/787.513bc5a6.chunk.js",
+    "index.html": "/Digital360-homepage/index.html",
+    "main.08d217eb.css.map": "/Digital360-homepage/static/css/main.08d217eb.css.map",
+    "main.6cd4751d.js.map": "/Digital360-homepage/static/js/main.6cd4751d.js.map",
+    "787.513bc5a6.chunk.js.map": "/Digital360-homepage/static/js/787.513bc5a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08d217eb.css",
-    "static/js/main.61e62a83.js"
+    "static/js/main.6cd4751d.js"
   ]
 }
