@@ -1,0 +1,15 @@
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.midNav{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-top: 1%;
+
+}
+.lastNav{
+    margin-top: 1%;
+}
