@@ -1,3 +1,4 @@
+import './nav.css'
 function Footer() {
     return (
         <div style={{ display: "flex", flexDirection: "row",overflow:"scroll" }}>
