@@ -1,7 +1,7 @@
 import './nav.css'
 function Footer() {
     return (
-        <div style={{ display: "flex", flexDirection: "row",overflowX:"scroll" }}>
+        <div className='footers' style={{ display: "flex", flexDirection: "row",overflowX:"scroll" }}>
             <img alt="" style={{ width: "16.6%" }} src="https://5.imimg.com/data5/NR/EX/CC/SELLER-3619257/c-1-clip-hanger-500x500.jpg" />
             <img alt="" style={{ width: "16.6%" }} src="https://www.shutterstock.com/image-photo/typical-wear-made-denim-260nw-731097895.jpg" />
             <img alt="" style={{ width: "16.6%" }} src="https://rukminim1.flixcart.com/image/612/612/xif0q/jean/8/m/j/38-1-hpskneeslit-white-urbano-fashion-original-imafzkgzgvnqtqpr-bb.jpeg?q=70" />
